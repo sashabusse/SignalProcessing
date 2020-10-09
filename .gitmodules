@@ -1,0 +1,3 @@
+[submodule "StepWay"]
+	path = StepWay
+	url = https://github.com/sashabusse/StepWay.git

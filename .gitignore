@@ -1,0 +1,12 @@
+#Directories
+.vs/
+bin/
+bin-int/
+Zsaved_forsure_files/
+
+#files
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+TODO.txt
